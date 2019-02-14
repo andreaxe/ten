@@ -33,8 +33,8 @@ export default {
 </script>
 
 <style>
-  @import './assets/css/uikit.css';
-  @import './assets/css/my_style.css';
+  @import '../static/assets/css/uikit.css';
+  @import '../static/assets/css/my_style.css';
   .my-grid{
     border-top:1px solid #e5e5e5;
     margin-top: 10px !important;

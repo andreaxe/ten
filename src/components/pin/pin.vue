@@ -2,6 +2,7 @@
   <section>
     <h2>PIN</h2>
     <div class="uk-margin">
+      <img src="/static/assets/img/washer.jpg"/>
       <input class="uk-input" type="text" placeholder="Inserir o pin" v-model="pin" v-if="!light_on">
     </div>
     <progress id="js-progressbar" class="uk-progress" :value="time" max="100"></progress>
