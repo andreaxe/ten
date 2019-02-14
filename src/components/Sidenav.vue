@@ -12,18 +12,18 @@
     </router-link>
 
     <router-link to="/cron" tag="button" class="uk-button uk-button-danger uk-button-large uk-width-1-1
-    uk-margin-small-bottom" active-class="uk-button-primary"> Equipamentos
+    uk-margin-small-bottom" active-class="uk-button-primary" disabled> Equipamentos
     </router-link>
 
     <router-link to="/cron" tag="button" class="uk-button uk-button-default uk-button-large uk-width-1-1
     uk-margin-small-bottom" active-class="uk-button-primary"> Cilindro
     </router-link>
 
-    <router-link to="/cron" tag="button" class="uk-button uk-button-danger uk-button-large uk-width-1-1
-    uk-margin-small-bottom" active-class="uk-button-primary"> Iluminação
+    <router-link to="/iluminacao" tag="button" class="uk-button uk-button-danger uk-button-large uk-width-1-1
+    uk-margin-small-bottom" active-class="uk-button-primary" disabled> Iluminação
     </router-link>
 
-    <router-link to="/cron" tag="button" class="uk-button uk-button-default uk-button-large uk-width-1-1
+    <router-link to="/aquecimento" tag="button" class="uk-button uk-button-default uk-button-large uk-width-1-1
     uk-margin-small-bottom" active-class="uk-button-primary"> Aquecimento
     </router-link>
     <hr>
